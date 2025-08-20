@@ -1,13 +1,16 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Website Pribadi Saya</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <h1>assalamu'alaikum akhi kenalin saya [Dhabith abdillah adipraja]</h1>
-    <p>maap klo ini masih banyak kekurangan wajar aja lah ya baru belajar, oiya jan lupa follow ig saya yak? (@dhbiith_)</p>
-</body>
-</html>
+body {
+    font-family: times new roman, sans-serif;
+    background-color: #60adff;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #000000;
+    text-align: center;
+    margin-top: 30px;
+}
+p {
+    text-align: center;
+    font-size: 25px;
+}
